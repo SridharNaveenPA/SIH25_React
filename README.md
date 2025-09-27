@@ -108,7 +108,7 @@ ON CONFLICT (username) DO NOTHING;
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/SridharNaveenPA/SIH25_React
 cd SIH2025
 ```
 
